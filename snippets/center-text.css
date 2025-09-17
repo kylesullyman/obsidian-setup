@@ -1,0 +1,30 @@
+/*------------------------------------------------------------------------------
+              Center Text Snippet for Obsidian by [Your Name]
+              
+This snippet centers all text in a note **except for the title (H1)**
+when "center-text" is declared at the top of the file.
+
+------------------------------------------------------------------------------*/
+
+/* Global Variables */
+:root {
+    --text-align-default: left; /* Default text alignment */
+    --text-align-centered: center; /* Centered text */
+}
+
+/* Applies center alignment when 'center-text' is the first line */
+.center-text {
+    text-align: var(--text-align-centered);
+}
+
+/* Ensures alignment applies to body text, blockquotes, lists, etc. */
+.center-text :is(p,h1, h2, h3, h4, h5, h6, blockquote, ul, ol, li, code) {
+    text-align: inherit;
+}
+
+/* Prevents code blocks and tables from being centered */
+.center-text pre,
+.center-text table {
+    text-align: var(--text-align-default);
+}
+

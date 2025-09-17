@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ae75dae0eee1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b83dc210ee5d09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81d5e03316812330",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a04aa5cc64a18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cdae0aa70603c36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2871d95673f2d7d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cbf04640f933379e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "cbca56c6ce9505da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca6431f08df52182",
+        "type": "tabs",
+        "dimension": 71.25748502994011,
+        "children": [
+          {
+            "id": "518264e0ada2ff98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dab"
+            }
+          },
+          {
+            "id": "41aeafc4caba9473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Feedback Practice"
+            }
+          },
+          {
+            "id": "07ec46b265281e64",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "186059934af44c43",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Lookup"
+            }
+          },
+          {
+            "id": "bde30d23226a6ec1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "5557644ca55f84e8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "931cac0f5414f934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dab.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dab"
+            }
+          },
+          {
+            "id": "791c8ca5c6080690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c081a86370299a3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "8ae6a6b0a336709e",
+        "type": "tabs",
+        "dimension": 28.74251497005988,
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "tldraw:Create new tldrawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "cbf04640f933379e",
+  "lastOpenFiles": [
+    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
+    "classes/25-26/🎮 game-340/inclass/Jira/Jira Setup.pdf",
+    "classes/25-26/🎮 game-340/🎮 GAME-340 Overview.md",
+    "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
+    "🌐 Main.md",
+    "classes/25-26/cpsc-285/👨‍💻 CPSC-285 - Overview.md",
+    "🏫 Classes.md",
+    "daily_notes/2025-02-19.md",
+    "classes/25-26/ceng-351/CENG 351 - Overview.md",
+    "shopping list 🫶.md",
+    "classes/25-26/hum_103/HUM-103 - Overview.md",
+    "classes/25-26/math_250/MATH-250 - Overview.md",
+    "classes/25-26/ceng-351/assignments/assignment 1/answers/CENG351 - Assignment 1 Answers.md",
+    "classes/25-26/ceng-351/terms/Byte-Addressable Memory.md",
+    "classes/25-26/ceng-351/terms/Opcode.md",
+    "classes/25-26/ceng-351/terms/J-Type.md",
+    "classes/25-26/🎮 game-340/notes/Thu Aug 28 - GAME340.md",
+    "classes/25-26/ceng-351/terms/I-Type.md",
+    "classes/25-26/ceng-351/terms/Word.md",
+    "classes/25-26/ceng-351/terms/DRAM.md",
+    "classes/25-26/ceng-351/terms/Word-Addressable Memory.md",
+    "classes/25-26/ceng-351/Terms.md",
+    "classes/25-26/ceng-351/slides/6.9-6.10.pdf",
+    "classes/25-26/ceng-351/slides/6.9-6.10.pdf.10",
+    "classes/25-26/ceng-351/slides/Unconfirmed 729788.crdownload",
+    "classes/25-26/ceng-351/slides/6.4-6.6.pdf",
+    "images/slacklogo.png",
+    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.md",
+    "🔬 harrison-research/documentation/Laptop Password.md",
+    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.docx",
+    "classes/25-26/ceng-351/notes/daily-notes/Wed Sep 10 - CENG351.md",
+    "classes/25-26/ceng-351/notes/daily-notes/Mon Aug 25.md",
+    "classes/25-26/ceng-351/notes/daily-notes/Wed Aug 27th.md",
+    "classes/25-26/ceng-351/assignments/assignment 3/Answers.docx",
+    "classes/25-26/ceng-351/slides/6.1-6.3.pdf",
+    "classes/25-26/ceng-351/assignments/assignment 3/Assignment3_Instructions.pdf",
+    "classes/25-26/ceng-351/assignments/assignment 3/Answers.pdf",
+    "🔬 harrison-research/code/mainfile/images/main_screen.png",
+    "🔬 harrison-research/documentation/Attachments/Agiltron Motor Control Manual.png",
+    "images/Screenshot 2025-09-15 at 1.46.33 PM.png",
+    "images/Screenshot 2025-09-15 at 1.38.03 PM.png",
+    "images/Screenshot 2025-09-15 at 1.37.10 PM.png",
+    "images/3d9f8dd1-0360-45ef-b550-b6fd032efe37-Screenshot-2025-09-15-at-1-26-20-PM-png.png",
+    "images/Screenshot 2025-09-15 at 1.25.48 PM.png",
+    "images/Pasted image 20250914195237.png",
+    "images/canvaslogo.png",
+    "harrison-research/Canvas.canvas",
+    "classes/Agile Development/Main Canvas.canvas",
+    "classes/24-25/cpsc_380/notes/cpsc380.canvas",
+    "ceng_330/Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "random/Map  Team.canvas"
+  ]
+}

@@ -1,0 +1,28 @@
+/*------------------------------------------------------------------------------
+              Baskerville Font Snippet for Obsidian by [Your Name]
+              
+This snippet changes the font to **Baskerville** in a note when 
+"baskerville-font" is declared at the top.
+
+------------------------------------------------------------------------------*/
+/* Global Variables */
+:root {
+    --default-font: var(--font-text);
+    --baskerville-font: "Baskerville", "Baskerville Old Face", "Garamond", serif;
+}
+
+/* Applies Baskerville font when 'baskerville-font' is the first line */
+.baskerville-font {
+    font-family: var(--baskerville-font);
+}
+
+/* Ensures all text elements use Baskerville */
+.baskerville-font :is(p, h1, h2, h3, h4, h5, h6, blockquote, ul, ol, li, code, table, th, td) {
+    font-family: inherit;
+}
+
+/* Keeps code blocks and inline code using the default monospace font */
+.baskerville-font pre,
+.baskerville-font code {
+    font-family: var(--default-font-monospace);
+}

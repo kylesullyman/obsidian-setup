@@ -1,0 +1,57 @@
+/* Hide all link icons - comprehensive approach, but preserve iconize plugin icons */
+.external-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]),
+.internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]),
+.cm-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]),
+.cm-hmd-internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]),
+.cm-url:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]),
+a[href]:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon]) {
+    background-image: none !important;
+}
+
+/* Hide pseudo-elements that contain icons, but preserve iconize */
+.external-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::after,
+.external-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::before,
+.internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::after,
+.internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::before,
+.cm-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::after,
+.cm-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::before,
+.cm-hmd-internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::after,
+.cm-hmd-internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::before,
+a[href]:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::after,
+a[href]:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)):not([data-icon])::before {
+    display: none !important;
+    content: none !important;
+}
+
+/* Hide SVG icons within links, but preserve iconize */
+.external-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)) svg:not(.iconize-icon):not(.iconize-icon-in-link),
+.internal-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)) svg:not(.iconize-icon):not(.iconize-icon-in-link),
+.cm-link:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)) svg:not(.iconize-icon):not(.iconize-icon-in-link),
+a[href]:not(:has(.iconize-icon)):not(:has(.iconize-icon-in-link)) svg:not(.iconize-icon):not(.iconize-icon-in-link) {
+    display: none !important;
+}
+
+/* Hide icon elements, but preserve iconize */
+.link-icon:not(.iconize-icon):not(.iconize-icon-in-link),
+.external-link-icon:not(.iconize-icon):not(.iconize-icon-in-link),
+.internal-link-icon:not(.iconize-icon):not(.iconize-icon-in-link) {
+    display: none !important;
+}
+
+/* Ensure iconize icons are always visible */
+.iconize-icon,
+.iconize-icon-in-link,
+.iconize-title-icon {
+    display: inline-flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Specifically preserve iconize icons in reading mode */
+.markdown-preview-view .iconize-icon,
+.markdown-preview-view .iconize-icon-in-link,
+.markdown-preview-view .iconize-title-icon {
+    display: inline-flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}

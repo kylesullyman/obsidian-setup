@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:classes/24-25  ",
+      "color": {
+        "a": 1,
+        "rgb": 12442878
+      }
+    },
+    {
+      "query": "path:classes/25-26  ",
+      "color": {
+        "a": 1,
+        "rgb": 16119285
+      }
+    },
+    {
+      "query": "path:\"🔬 harrison-research\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9149627
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.8,
+  "nodeSizeMultiplier": 2.96474580782539,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.424524050918103,
+  "repelStrength": 17.5657650981845,
+  "linkStrength": 0.658837445082798,
+  "linkDistance": 366,
+  "scale": 0.02666909458177906,
+  "close": true
+}

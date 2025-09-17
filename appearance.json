@@ -1,0 +1,18 @@
+{
+  "cssTheme": "Neumorphism",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "center",
+    "hide-link-icons"
+  ],
+  "accentColor": "#678fd0",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "textFontFamily": "Times New Roman",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14,
+  "showRibbon": false,
+  "showViewHeader": true
+}
