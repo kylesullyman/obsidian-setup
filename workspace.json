@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57ae75dae0eee1a5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b83dc210ee5d09",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌤️ Today.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🌤️ Today"
             }
           }
         ]
@@ -210,11 +214,9 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -243,22 +245,29 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "cbf04640f933379e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
-    "classes/25-26/🎮 game-340/inclass/Jira/Jira Setup.pdf",
-    "classes/25-26/🎮 game-340/🎮 GAME-340 Overview.md",
-    "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
-    "🌐 Main.md",
-    "classes/25-26/cpsc-285/👨‍💻 CPSC-285 - Overview.md",
     "🏫 Classes.md",
+    "classes/25-26/ceng-351/Terms.md",
+    "classes/25-26/ceng-351/Chapters.md",
+    "classes/25-26/🎮 game-340/🎮 GAME-340 Overview.md",
+    "🌐 Main.md",
+    "classes/25-26/hum_103/HUM-103 - Overview.md",
+    "projects/ai/apis/Brave Search Api.md",
+    "subscriptions.md",
+    "images/githublogo.png",
+    "🔬 harrison-research/code/mainfile/images/bjasldfjas.png",
+    "classes/25-26/🎮 game-340/inclass/Jira/Jira Setup.pdf",
+    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
+    "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
+    "classes/25-26/cpsc-285/👨‍💻 CPSC-285 - Overview.md",
     "daily_notes/2025-02-19.md",
     "classes/25-26/ceng-351/CENG 351 - Overview.md",
     "shopping list 🫶.md",
-    "classes/25-26/hum_103/HUM-103 - Overview.md",
     "classes/25-26/math_250/MATH-250 - Overview.md",
     "classes/25-26/ceng-351/assignments/assignment 1/answers/CENG351 - Assignment 1 Answers.md",
     "classes/25-26/ceng-351/terms/Byte-Addressable Memory.md",
@@ -269,7 +278,6 @@
     "classes/25-26/ceng-351/terms/Word.md",
     "classes/25-26/ceng-351/terms/DRAM.md",
     "classes/25-26/ceng-351/terms/Word-Addressable Memory.md",
-    "classes/25-26/ceng-351/Terms.md",
     "classes/25-26/ceng-351/slides/6.9-6.10.pdf",
     "classes/25-26/ceng-351/slides/6.9-6.10.pdf.10",
     "classes/25-26/ceng-351/slides/Unconfirmed 729788.crdownload",
@@ -279,21 +287,16 @@
     "🔬 harrison-research/documentation/Laptop Password.md",
     "🔬 harrison-research/documentation/Agiltron Motor Control Manual.docx",
     "classes/25-26/ceng-351/notes/daily-notes/Wed Sep 10 - CENG351.md",
-    "classes/25-26/ceng-351/notes/daily-notes/Mon Aug 25.md",
-    "classes/25-26/ceng-351/notes/daily-notes/Wed Aug 27th.md",
     "classes/25-26/ceng-351/assignments/assignment 3/Answers.docx",
     "classes/25-26/ceng-351/slides/6.1-6.3.pdf",
     "classes/25-26/ceng-351/assignments/assignment 3/Assignment3_Instructions.pdf",
     "classes/25-26/ceng-351/assignments/assignment 3/Answers.pdf",
-    "🔬 harrison-research/code/mainfile/images/main_screen.png",
     "🔬 harrison-research/documentation/Attachments/Agiltron Motor Control Manual.png",
     "images/Screenshot 2025-09-15 at 1.46.33 PM.png",
     "images/Screenshot 2025-09-15 at 1.38.03 PM.png",
     "images/Screenshot 2025-09-15 at 1.37.10 PM.png",
     "images/3d9f8dd1-0360-45ef-b550-b6fd032efe37-Screenshot-2025-09-15-at-1-26-20-PM-png.png",
     "images/Screenshot 2025-09-15 at 1.25.48 PM.png",
-    "images/Pasted image 20250914195237.png",
-    "images/canvaslogo.png",
     "harrison-research/Canvas.canvas",
     "classes/Agile Development/Main Canvas.canvas",
     "classes/24-25/cpsc_380/notes/cpsc380.canvas",
