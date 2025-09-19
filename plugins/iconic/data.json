@@ -35,9 +35,6 @@
     "classes/25-26/ceng-351": {
       "icon": "lucide-circuit-board"
     },
-    "classes/25-26/ceng-351/CENG 351 - Overview.md": {
-      "icon": "lucide-circuit-board"
-    },
     "classes/25-26/ceng-351/Terms.md": {
       "icon": "lucide-list"
     },
@@ -52,6 +49,12 @@
     },
     "classes/25-26/🎮 game-340": {
       "icon": "lucide-gamepad-2"
+    },
+    "learning": {
+      "icon": "lucide-brain"
+    },
+    "learning/presentation - drh": {
+      "icon": "lucide-presentation"
     }
   },
   "bookmarkIcons": {},

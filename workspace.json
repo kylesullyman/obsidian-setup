@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1320a826882a8272",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "702a473a782db498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌤️ Today.md",
+                "file": "🏫 Classes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌤️ Today"
+              "title": "🏫 Classes"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       {
         "id": "ca6431f08df52182",
         "type": "tabs",
-        "dimension": 71.25748502994011,
+        "dimension": 73.08612440191388,
         "children": [
           {
             "id": "518264e0ada2ff98",
@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dab"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Feedback Practice"
+              "title": "Outgoing links"
             }
           },
           {
@@ -164,21 +162,6 @@
             }
           },
           {
-            "id": "931cac0f5414f934",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "dab.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of dab"
-            }
-          },
-          {
             "id": "791c8ca5c6080690",
             "type": "leaf",
             "state": {
@@ -202,21 +185,47 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "11b07e8c90f4c962",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          },
+          {
+            "id": "fb941f8e07b1a93d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
-        "id": "8ae6a6b0a336709e",
+        "id": "270256d1a30f1177",
         "type": "tabs",
-        "dimension": 28.74251497005988,
+        "dimension": 26.913875598086126,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "bdc8d67a073105bc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -225,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,54 +259,54 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "702a473a782db498",
   "lastOpenFiles": [
-    "🏫 Classes.md",
-    "classes/25-26/ceng-351/Terms.md",
-    "classes/25-26/ceng-351/Chapters.md",
-    "classes/25-26/🎮 game-340/🎮 GAME-340 Overview.md",
     "🌐 Main.md",
-    "classes/25-26/hum_103/HUM-103 - Overview.md",
-    "projects/ai/apis/Brave Search Api.md",
-    "subscriptions.md",
-    "images/githublogo.png",
-    "🔬 harrison-research/code/mainfile/images/bjasldfjas.png",
-    "classes/25-26/🎮 game-340/inclass/Jira/Jira Setup.pdf",
-    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
-    "classes/25-26/🎮 game-340/assignments/Feedback/Feedback Practice.md",
-    "classes/25-26/cpsc-285/👨‍💻 CPSC-285 - Overview.md",
-    "daily_notes/2025-02-19.md",
+    "🌤️ Today.md",
     "classes/25-26/ceng-351/CENG 351 - Overview.md",
-    "shopping list 🫶.md",
-    "classes/25-26/math_250/MATH-250 - Overview.md",
-    "classes/25-26/ceng-351/assignments/assignment 1/answers/CENG351 - Assignment 1 Answers.md",
-    "classes/25-26/ceng-351/terms/Byte-Addressable Memory.md",
-    "classes/25-26/ceng-351/terms/Opcode.md",
-    "classes/25-26/ceng-351/terms/J-Type.md",
-    "classes/25-26/🎮 game-340/notes/Thu Aug 28 - GAME340.md",
-    "classes/25-26/ceng-351/terms/I-Type.md",
-    "classes/25-26/ceng-351/terms/Word.md",
-    "classes/25-26/ceng-351/terms/DRAM.md",
-    "classes/25-26/ceng-351/terms/Word-Addressable Memory.md",
-    "classes/25-26/ceng-351/slides/6.9-6.10.pdf",
+    "tutoring/Overview.md",
+    "tutoring/Day Three Cont.md",
+    "images/githublogo.png",
+    "learning/presentation - drh/HellaSwag.pdf",
+    "learning/presentation - drh/Slideshow.md",
+    "learning/presentation - drh/Hella Swag 10 Min Read.md",
+    "learning/presentation - drh",
+    "🔬 harrison-research/notes/_Index_of_notes.md",
+    "🔬 harrison-research/code/_Index_of_code.md",
+    "projects/_Index_of_projects.md",
+    "projects/flash-obsidian/_Index_of_flash-obsidian.md",
+    "projects/ai/_Index_of_ai.md",
+    "legal/_Index_of_legal.md",
+    "learning/_Index_of_learning.md",
+    "learning/touchdesigner/_Index_of_touchdesigner.md",
+    "classes/25-26/cpsc-285/assignments/_Index_of_assignments.md",
+    "classes/25-26/ceng-351/terms/_Index_of_terms.md",
+    "classes/25-26/🎮 game-340/assignments/_Index_of_assignments.md",
+    "classes/25-26/ceng-351/assignments/assignment 1/_Index_of_assignment 1.md",
+    "classes/24-25/_Index_of_24-25.md",
+    "classes/25-26/ceng-351/notes/_Index_of_notes.md",
+    "classes/24-25/math_215/_Index_of_math_215.md",
+    "classes/24-25/cpsc_392/_Index_of_cpsc_392.md",
+    "classes/24-25/cpsc_392/notes/_Index_of_notes.md",
+    "classes/24-25/cpsc_380/notes/_Index_of_notes.md",
+    "classes/24-25/cpsc_380/_Index_of_cpsc_380.md",
+    "classes/asses",
+    "classes/🏫classes",
+    "classes/Classes",
     "classes/25-26/ceng-351/slides/6.9-6.10.pdf.10",
-    "classes/25-26/ceng-351/slides/Unconfirmed 729788.crdownload",
-    "classes/25-26/ceng-351/slides/6.4-6.6.pdf",
+    "Users/kylesullivan/obsidian/main-vault",
+    "Users/kylesullivan/obsidian",
+    "Users/kylesullivan",
+    "Users",
+    "images/Pasted image 20250408143350.png",
+    "🔬 harrison-research/code/mainfile/images/bjasldfjas.png",
+    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
     "images/slacklogo.png",
-    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.md",
-    "🔬 harrison-research/documentation/Laptop Password.md",
-    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.docx",
-    "classes/25-26/ceng-351/notes/daily-notes/Wed Sep 10 - CENG351.md",
-    "classes/25-26/ceng-351/assignments/assignment 3/Answers.docx",
-    "classes/25-26/ceng-351/slides/6.1-6.3.pdf",
-    "classes/25-26/ceng-351/assignments/assignment 3/Assignment3_Instructions.pdf",
-    "classes/25-26/ceng-351/assignments/assignment 3/Answers.pdf",
     "🔬 harrison-research/documentation/Attachments/Agiltron Motor Control Manual.png",
     "images/Screenshot 2025-09-15 at 1.46.33 PM.png",
     "images/Screenshot 2025-09-15 at 1.38.03 PM.png",
     "images/Screenshot 2025-09-15 at 1.37.10 PM.png",
     "images/3d9f8dd1-0360-45ef-b550-b6fd032efe37-Screenshot-2025-09-15-at-1-26-20-PM-png.png",
-    "images/Screenshot 2025-09-15 at 1.25.48 PM.png",
     "harrison-research/Canvas.canvas",
     "classes/Agile Development/Main Canvas.canvas",
     "classes/24-25/cpsc_380/notes/cpsc380.canvas",

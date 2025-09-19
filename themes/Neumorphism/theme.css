@@ -246,6 +246,21 @@ body:not(.show-ribbon) .workspace.is-left-sidedock-open .sidebar-toggle-button.m
     overflow: var(--overflow) !important;
 }
 
+/* Allow horizontal scrolling for tab headers */
+.workspace-tab-header-container,
+.workspace-tab-header-container-inner {
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    scrollbar-width: none !important; /* Firefox */
+    -ms-overflow-style: none !important; /* IE/Edge */
+}
+
+/* Hide scrollbars for webkit browsers */
+.workspace-tab-header-container::-webkit-scrollbar,
+.workspace-tab-header-container-inner::-webkit-scrollbar {
+    display: none !important;
+}
+
 div[class^="div-scrollTo"] {
     right: var(--gap) !important;
 }
