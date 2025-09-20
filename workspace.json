@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1320a826882a8272",
+        "id": "afad3e04822075f8",
         "type": "tabs",
         "children": [
           {
-            "id": "702a473a782db498",
+            "id": "d22ab944c879bf34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏫 Classes.md",
+                "file": "🏫 classes/25-26/🎮 game-340/🎮 GAME-340 Overview.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏫 Classes"
+              "title": "🎮 GAME-340 Overview"
             }
           }
         ]
@@ -40,12 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bert",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 218.5026044845581
   },
   "right": {
     "id": "cbca56c6ce9505da",
@@ -88,7 +88,7 @@
       {
         "id": "ca6431f08df52182",
         "type": "tabs",
-        "dimension": 73.08612440191388,
+        "dimension": 62.97169811320755,
         "children": [
           {
             "id": "518264e0ada2ff98",
@@ -177,16 +177,6 @@
             }
           },
           {
-            "id": "7c081a86370299a3",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "11b07e8c90f4c962",
             "type": "leaf",
             "state": {
@@ -211,15 +201,15 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
-        "id": "270256d1a30f1177",
+        "id": "9cf8134dd5440b70",
         "type": "tabs",
-        "dimension": 26.913875598086126,
+        "dimension": 37.028301886792455,
         "children": [
           {
-            "id": "bdc8d67a073105bc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -234,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,57 +248,58 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "702a473a782db498",
+  "active": "cbf04640f933379e",
   "lastOpenFiles": [
+    "🏫 classes/🏫 classes.md",
     "🌐 Main.md",
-    "🌤️ Today.md",
-    "classes/25-26/ceng-351/CENG 351 - Overview.md",
-    "tutoring/Overview.md",
-    "tutoring/Day Three Cont.md",
-    "images/githublogo.png",
-    "learning/presentation - drh/HellaSwag.pdf",
-    "learning/presentation - drh/Slideshow.md",
+    "🔬 harrison-research/🔬 harrison-research.md",
+    "🏫 classes/25-26/ceng-351/CENG 351 - Overview.md",
     "learning/presentation - drh/Hella Swag 10 Min Read.md",
+    "learning/presentation - drh/Slideshow.md",
+    "learning/learning.md",
+    "learning/presentation - drh/HellaSwag.pdf",
+    "learning/presentation - drh/presentation - drh.md",
+    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.docx",
+    "🔬 harrison-research/documentation/Laptop Password.md",
+    "🔬 harrison-research/documentation/Agiltron Motor Control Manual.md",
+    "🔬 harrison-research/documentation/Attachments/Agiltron Motor Control Manual.png",
+    "🔬 harrison-research/notes/working-notes/Stage Implementation Todos.md",
+    "🔬 harrison-research/terms/terms.md",
+    "🔬 harrison-research/notes/article-notes/Fiber Stress Sensor Article.md",
+    "🔬 harrison-research/Learning.md",
+    "🔬 harrison-research/notes/video-notes/This tests your understanding of light - The barber pole effect.md",
+    "learning/terms/LSTM.md",
+    "learning/terms/BERT.md",
+    "🏫 classes/25-26/25-26.md",
+    "🏫 classes/24-25/24-25.md",
+    "🏫 classes/24-25/Agile Development/Agile Development.md",
+    "classes/Unknown.xml",
+    "🏫 classes/25-26/ceng-351/terms/terms.md",
+    "images/ffa0be73-e341-416c-9e54-238d0bd69d39-tldrawFile.png",
+    "tutoring/tutoring.md",
+    "ta/React.md",
+    "🏫 classes/25-26/math_250/math_250.md",
+    "🏫 classes/25-26/hum_103/hum_103.md",
+    "🏫 classes/25-26/cpsc-285/cpsc-285.md",
+    "plugins/templates",
+    "learning/touchdesigner/touchdesigner.canvas",
+    "learning/touchdesigner/touchdesigner.base",
+    "images/hellaswag.png",
+    "images/githublogo.png",
     "learning/presentation - drh",
-    "🔬 harrison-research/notes/_Index_of_notes.md",
-    "🔬 harrison-research/code/_Index_of_code.md",
-    "projects/_Index_of_projects.md",
-    "projects/flash-obsidian/_Index_of_flash-obsidian.md",
-    "projects/ai/_Index_of_ai.md",
-    "legal/_Index_of_legal.md",
-    "learning/_Index_of_learning.md",
-    "learning/touchdesigner/_Index_of_touchdesigner.md",
-    "classes/25-26/cpsc-285/assignments/_Index_of_assignments.md",
-    "classes/25-26/ceng-351/terms/_Index_of_terms.md",
-    "classes/25-26/🎮 game-340/assignments/_Index_of_assignments.md",
-    "classes/25-26/ceng-351/assignments/assignment 1/_Index_of_assignment 1.md",
-    "classes/24-25/_Index_of_24-25.md",
-    "classes/25-26/ceng-351/notes/_Index_of_notes.md",
-    "classes/24-25/math_215/_Index_of_math_215.md",
-    "classes/24-25/cpsc_392/_Index_of_cpsc_392.md",
-    "classes/24-25/cpsc_392/notes/_Index_of_notes.md",
-    "classes/24-25/cpsc_380/notes/_Index_of_notes.md",
-    "classes/24-25/cpsc_380/_Index_of_cpsc_380.md",
     "classes/asses",
     "classes/🏫classes",
     "classes/Classes",
-    "classes/25-26/ceng-351/slides/6.9-6.10.pdf.10",
-    "Users/kylesullivan/obsidian/main-vault",
-    "Users/kylesullivan/obsidian",
-    "Users/kylesullivan",
-    "Users",
+    "🏫 classes/25-26/ceng-351/slides/6.9-6.10.pdf.10",
     "images/Pasted image 20250408143350.png",
     "🔬 harrison-research/code/mainfile/images/bjasldfjas.png",
-    "classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
+    "🏫 classes/25-26/🎮 game-340/inclass/Jira/CouldHave.png",
     "images/slacklogo.png",
-    "🔬 harrison-research/documentation/Attachments/Agiltron Motor Control Manual.png",
     "images/Screenshot 2025-09-15 at 1.46.33 PM.png",
     "images/Screenshot 2025-09-15 at 1.38.03 PM.png",
-    "images/Screenshot 2025-09-15 at 1.37.10 PM.png",
-    "images/3d9f8dd1-0360-45ef-b550-b6fd032efe37-Screenshot-2025-09-15-at-1-26-20-PM-png.png",
     "harrison-research/Canvas.canvas",
     "classes/Agile Development/Main Canvas.canvas",
-    "classes/24-25/cpsc_380/notes/cpsc380.canvas",
+    "🏫 classes/24-25/cpsc_380/notes/cpsc380.canvas",
     "ceng_330/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

@@ -3,7 +3,7 @@
   "clickableIcons": "desktop",
   "showAllFileIcons": false,
   "showAllFolderIcons": false,
-  "minimalFolderIcons": true,
+  "minimalFolderIcons": false,
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
   "showTagPillIcons": true,
@@ -29,32 +29,29 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "classes": {
-      "icon": "lucide-school-2"
-    },
-    "classes/25-26/ceng-351": {
-      "icon": "lucide-circuit-board"
-    },
-    "classes/25-26/ceng-351/Terms.md": {
-      "icon": "lucide-list"
-    },
-    "classes/25-26/cpsc-285": {
-      "icon": "lucide-person-standing"
-    },
-    "classes/25-26/hum_103": {
-      "icon": "lucide-timer"
-    },
-    "classes/25-26/math_250": {
-      "icon": "math-function"
-    },
-    "classes/25-26/🎮 game-340": {
-      "icon": "lucide-gamepad-2"
-    },
     "learning": {
       "icon": "lucide-brain"
     },
     "learning/presentation - drh": {
       "icon": "lucide-presentation"
+    },
+    "🏫 classes/25-26/ceng-351": {
+      "icon": "lucide-circuit-board"
+    },
+    "🏫 classes/25-26/ceng-351/terms/terms.md": {
+      "icon": "lucide-list"
+    },
+    "🏫 classes/25-26/cpsc-285": {
+      "icon": "lucide-person-standing"
+    },
+    "🏫 classes/25-26/hum_103": {
+      "icon": "lucide-timer"
+    },
+    "🏫 classes/25-26/math_250": {
+      "icon": "math-function"
+    },
+    "🏫 classes/25-26/🎮 game-340": {
+      "icon": "lucide-gamepad-2"
     }
   },
   "bookmarkIcons": {},

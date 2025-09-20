@@ -241,9 +241,12 @@ body:not(.show-ribbon) .workspace.is-left-sidedock-open .sidebar-toggle-button.m
 .workspace-leaf-content,
 .workspace-ribbon,
 .workspace-split,
-.view-header,
-.view-content {
+.view-header {
     overflow: var(--overflow) !important;
+}
+
+.view-content {
+    overflow: auto !important;
 }
 
 /* Allow horizontal scrolling for tab headers */

@@ -26,5 +26,8 @@
   "heading-level-indent",
   "simple-banner",
   "iconic",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "folder-notes",
+  "vim-yank-highlight",
+  "waypoint"
 ]
